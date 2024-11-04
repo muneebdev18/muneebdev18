@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfswk&label=Profile%20views&color=0e75b6&style=flat" alt="myselfswk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebdev18&label=Profile%20views&color=0e75b6&style=flat" alt="muneebdev18" /> </p>
 
 - 🌱 I’m currently learning **Frontend, Backend, Advanced UI & Integration Concepts (Both TypeScript & JavaScript)**
 
